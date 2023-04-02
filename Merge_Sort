@@ -20,4 +20,4 @@
 
 
 ** Big-O gösterimini yazınız. **
-*** Merge sort'un Big-O notasyonu O(n*Logn)'dir. ***
+*** Merge sort'un Big-O notasyonu O(n*logn)'dir. ***
